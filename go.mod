@@ -1,4 +1,4 @@
-module github.com/Boostport/kubernetes-vault
+module github.com/hezro/kubernetes-vault
 
 go 1.17
 
